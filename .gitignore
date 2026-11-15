@@ -1,0 +1,7 @@
+final_project
+final_project.exe
+job-*.out
+job-*.err
+*.nsys-rep
+*.sqlite
+report*.nsys-rep
